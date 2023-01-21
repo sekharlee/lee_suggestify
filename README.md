@@ -18,3 +18,12 @@ It will suggest the payloads based on the input typed in input boxes.
 	Go to chrome://extensions/ in chrome browser, enable developer mode on the right top corner
 	Select Loadunpacked and select Lee_suggestify folder
 	Enable the extension from the chrome extension bar
+
+  ## Feature:
+	Use only input data from the input tags
+	It contains sql, login sql, SSTI, XSS, CSV injextion Payloads
+
+  ## Upcoming Features:
+	Take input from textarea tag
+	By show the payloads based on vulnerability name it is typed like xss, sql etc
+	Upload own/latest payloads by user.
