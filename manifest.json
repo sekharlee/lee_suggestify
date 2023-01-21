@@ -1,0 +1,15 @@
+{
+  "author": "SekharLee",
+  "manifest_version": 3,
+  "name": "Lee_Suggestify",
+  "version": "1.0",
+  "description": "A simple extension that suggests payloads based on input",
+  "permissions": ["activeTab"],
+    "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"]
+    }
+  ]
+      
+}
