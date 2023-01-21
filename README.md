@@ -21,9 +21,9 @@ It will suggest the payloads based on the input typed in input boxes.
 
   ## Features:
 	Use only input data from the input tags
-	It contains sql, login sql, SSTI, XSS, CSV injextion Payloads
+	It contains sql, login sql, SSTI, XSS, CSV injection Payloads
 
   ## Upcoming Features:
 	Take input from textarea tag
-	By show the payloads based on vulnerability name it is typed like xss, sql etc
-	Upload own/latest payloads by user.
+	Show the payloads based on vulnerability name it is typed like xss, sql etc
+	Upload own/latest payloads by the user.
