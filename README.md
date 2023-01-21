@@ -11,3 +11,9 @@ It will suggest the payloads based on the input typed in input boxes.
 	
 	For Template Injection:
   ![template_injection](https://user-images.githubusercontent.com/51740389/213888783-6875e486-f22e-4b88-86dd-a37faae20bb0.png)
+
+	For Installation
+  Clone the Repo git clone https://github.com/sekharlee/lee_suggestify.git
+	Go to chrome://extensions/ in chrome browser, enable developer mode on the right top corner
+	Select Loadunpacked and select Lee_suggestify folder
+	Enable the extension from the chrome extension bar
